@@ -1,7 +1,7 @@
 # Portable package for ComfyUI on Windows
 
 image:https://github.com/YanWenKun/ComfyUI-Windows-Portable/actions/workflows/build.yml/badge.svg["GitHub Workflow Status"]
-*link:README.zh.adoc[＞💡中文说明点我💡＜]*
+*link:README.zh.adoc*
 
 Just like 
 https://github.com/comfyanonymous/ComfyUI/releases[ComfyUI official Standalone Portable],
